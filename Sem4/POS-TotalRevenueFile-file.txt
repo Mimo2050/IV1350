@@ -1,0 +1,2 @@
+13/05/21 23:43:10; Print the total income: 
+Total income: 68
